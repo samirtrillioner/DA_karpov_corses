@@ -1,1 +1,1 @@
-# [Data Analyst Karpov.Course](https://karpov.courses/analytics)
+# [Data Analyst Karpov.Courses](https://karpov.courses/analytics)
