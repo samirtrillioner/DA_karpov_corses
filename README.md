@@ -1,3 +1,3 @@
 # [Data Analyst Karpov.Courses](https://karpov.courses/analytics)
 
-Projects related to the execution of the python task
+Projects related to the execution of the python, sql tasks
