@@ -1,1 +1,1 @@
-# DA_karpov_corses
+# Data Analyst karpov.course
